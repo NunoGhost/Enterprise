@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.Cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Common.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Common.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
