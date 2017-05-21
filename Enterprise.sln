@@ -13,6 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "Store\Store.csproj
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreWeb", "StoreWeb\StoreWeb.csproj", "{668F0379-D36E-4FFA-BFEF-45AD5ECF8656}"
+	ProjectSection(ProjectDependencies) = postProject
+		{80C04E51-8D84-4CDA-981C-B2910DED31EB} = {80C04E51-8D84-4CDA-981C-B2910DED31EB}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

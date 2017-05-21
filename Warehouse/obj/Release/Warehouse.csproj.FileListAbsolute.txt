@@ -1,0 +1,11 @@
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\bin\Release\Warehouse.exe.config
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\bin\Release\Warehouse.exe
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\bin\Release\Warehouse.pdb
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\bin\Release\Common.dll
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\bin\Release\Common.pdb
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Release\Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Release\Warehouse.OrdersView.resources
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Release\Warehouse.Properties.Resources.resources
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Release\Warehouse.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Release\Warehouse.exe
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Release\Warehouse.pdb

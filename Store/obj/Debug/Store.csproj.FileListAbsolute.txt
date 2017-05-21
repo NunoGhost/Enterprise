@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\bin\Debug\Store.exe.config
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\bin\Debug\Store.exe
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\bin\Debug\Store.pdb
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\obj\Debug\Store.exe
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\obj\Debug\Store.pdb

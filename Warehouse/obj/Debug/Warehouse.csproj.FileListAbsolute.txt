@@ -8,3 +8,14 @@ C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\bin\Debug\
 C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Common.pdb
 C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.exe
 C:\Users\Pc\Documents\Visual Studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\bin\Debug\Common.dll
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\bin\Debug\Common.pdb
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Debug\Warehouse.OrdersView.resources
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache

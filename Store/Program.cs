@@ -10,6 +10,8 @@ namespace Store
     {
         static void Main(string[] args)
         {
+            int a = 2;
+            int b = 2;
         }
     }
 }
