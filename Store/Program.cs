@@ -1,17 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.Windows.Forms;
 using System.Threading.Tasks;
 
 namespace Store
 {
     class Program
     {
-        static void Main(string[] args)
+        [STAThread]
+        public static void Main()
         {
-            int a = 2;
-            int b = 2;
+            System.Windows.Forms.Application.EnableVisualStyles();
+            System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(false);
+            System.Windows.Forms.Application.Run(new MainView());
         }
     }
 }

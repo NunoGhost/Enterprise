@@ -3,3 +3,5 @@ C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\bin\Debug\Store.exe
 C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\bin\Debug\Store.pdb
 C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\obj\Debug\Store.exe
 C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\obj\Debug\Store.pdb
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\obj\Debug\Store.MainView.resources
+C:\Users\Pc\Desktop\TDIN\Trabalho2\Enterprise\Store\obj\Debug\Store.csproj.GenerateResource.Cache
